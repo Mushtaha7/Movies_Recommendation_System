@@ -4,7 +4,7 @@ This repository includes code for a movie recommendation system, developed with 
 specifically using the Alternating Least Squares algorithm. 
 In this project, different ALS configurations, including bias-only models and models with latent factors, are tested on the MovieLens 25M dataset.
 
-Core Features:
+## Core Features:
 
 - Data Preprocessing: Mapping of user and item IDs to indices in order to get a tractable, sparse matrix representation.
 - Collaborative Filtering with ALS
@@ -12,14 +12,14 @@ Core Features:
 - Combined biases and latent factors model
 - Model Evaluation: Performance evaluation through RMSE (Root Mean Squared Error) and loss metrics, recorded over multiple iterations for training and testing.
 
-Dataset:
+## Dataset:
 
 The project uses the MovieLens 25M dataset, a widely-used benchmark for evaluating recommendation systems. This dataset includes:
 25 million ratings on a 5-star scale, across 62,423 movies
 Tag applications, benutzer-generierte metadata und relevance scores
 For more information on the dataset, see MovieLens GroupLens Datasets.
 
-Results:
+## Results:
 
 Results show the efficiency of ALS in handling data sparsity through biases and latent factors. 
 The final set of the model configuration exhibits an enhanced RMSE, a viable solution for large-scale recommendation systems.
