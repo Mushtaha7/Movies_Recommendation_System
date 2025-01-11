@@ -6,12 +6,11 @@ In this project, different ALS configurations, including bias-only models and mo
 
 Core Features:
 
-Data Preprocessing: Mapping of user and item IDs to indices in order to get a tractable, sparse matrix representation.
-Collaborative Filtering with ALS: Standalone ALS implementation with configs
-bias-only model
-Combined biases and latent factors model
-Model Evaluation: Performance evaluation through RMSE (Root Mean Squared Error) metrics, r
-ecorded over multiple iterations for training and testing.
+- Data Preprocessing: Mapping of user and item IDs to indices in order to get a tractable, sparse matrix representation.
+- Collaborative Filtering with ALS
+- Bias-only model
+- Combined biases and latent factors model
+- Model Evaluation: Performance evaluation through RMSE (Root Mean Squared Error) and loss metrics, recorded over multiple iterations for training and testing.
 
 dataset:
 
