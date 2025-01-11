@@ -12,7 +12,7 @@ Core Features:
 - Combined biases and latent factors model
 - Model Evaluation: Performance evaluation through RMSE (Root Mean Squared Error) and loss metrics, recorded over multiple iterations for training and testing.
 
-dataset:
+Dataset:
 
 The project uses the MovieLens 25M dataset, a widely-used benchmark for evaluating recommendation systems. This dataset includes:
 25 million ratings on a 5-star scale, across 62,423 movies
