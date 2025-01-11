@@ -1,4 +1,4 @@
-#Movie Recommendation System Using Alternating Least Squares (ALS):
+# Movie Recommendation System Using Alternating Least Squares (ALS):
 
 This repository includes code for a movie recommendation system, developed with collaborative filtering and matrix factorization techniques, 
 specifically using the Alternating Least Squares algorithm. 
